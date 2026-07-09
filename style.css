@@ -46,6 +46,12 @@
     cursor:pointer;
 
 }
+.join-p h1{
+    font-family: "Inter", sans-serif;
+    font-size:80px;
+    color:#FFFFFF;
+    margin-bottom: 20px;
+}
 .join-p{
      font-family: "Inter", sans-serif;
 
@@ -56,4 +62,8 @@
     background-position: center;
     background-repeat: no-repeat;
     min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
 }
